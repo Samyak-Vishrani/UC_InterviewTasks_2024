@@ -1,0 +1,42 @@
+.about{         /*header*/
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.pointers{
+    margin-bottom: 28px;
+    margin-right: 16px;
+}
+
+.checkmark{
+    height: 24px;
+    margin-right: 6px;
+}
+
+.abt-us{
+    font-family: Inter;
+    font-size: 15px;
+    line-height:21px;
+    font-weight: 270;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    display: flex;
+}
+
+.chef{
+    float: right;
+    height: 470px;
+}
+
+.main-div{
+    position: relative;
+}
+
+.back-pic{
+    position: absolute;
+    opacity: 0.1;
+    width: 200px;
+    top: -72px;
+    left: -50px;
+    gap: 0px;
+}

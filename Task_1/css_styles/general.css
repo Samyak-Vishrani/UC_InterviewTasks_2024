@@ -1,0 +1,96 @@
+.menu-btn{
+    background-color: rgb(16, 26, 36);
+    border-color: rgb(16, 26, 36);
+    
+    margin-right: 7px;
+}
+
+.nav-button{
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 22px;
+    padding-right: 22px;
+    font-family: David Libre;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 29px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 2px;
+    border-style: solid;
+    box-shadow: 0px 15px 30px 0px rgba(0, 0, 0, 0.15);
+}
+
+.book-btn{
+    background-color: rgb(234, 109, 39);
+    border-color: #EA6D27;
+    margin-left: 7px;
+}
+
+.my-content-header{
+    font-family: David Libre;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 50px;
+    display: block;
+    z-index: 100;
+    margin-bottom: 32px;
+}
+
+.my-content-body{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    display: block;
+    z-index: 100;
+}
+
+.my-content-header-center {
+    font-family: David Libre;
+    font-size: 46px;
+    font-weight: 700;
+    line-height: 50px;
+    display: block;
+    z-index: 100;
+    margin-bottom: 32px;
+    text-align: center;
+}
+
+.my-content-body-center{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 200;
+    margin-top: 5px;
+    /* margin-bottom: 100px; */
+    z-index: 100;
+    /*float: center;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+    text-align: center;
+    display: block;
+    margin: 30px auto 110px;
+    width: 40%;
+}
+
+.sub-heading {
+    font-family: David Libre;
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.sub-body {
+    font-family: Inter;
+    font-weight: 200;
+    font-size: 12px;
+    line-height: 20px;
+    padding-bottom: 16px;
+}
