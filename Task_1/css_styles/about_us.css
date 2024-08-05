@@ -9,7 +9,7 @@
 }
 
 .checkmark{
-    height: 24px;
+    height: 22px;
     margin-right: 6px;
 }
 
@@ -26,6 +26,7 @@
 .chef{
     float: right;
     height: 470px;
+    padding-bottom: 60px;
 }
 
 .main-div{

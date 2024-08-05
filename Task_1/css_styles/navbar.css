@@ -6,22 +6,26 @@
     background-color: white;
     color: #101A24;
 
+    padding-top: 20px;
+    padding-bottom: 20px;
     margin-bottom: 140px;
 }
 
 .left-sec{
     display: flex;
-    align-items: center;
+    align-items: end;
 }
 
 .logo{
     height: 50px;
-    margin: 3px;
 }
 
 .restaurant-name{
     font-family: David Libre;
+    font-size: 26px;
     font-weight: 700;
+    margin: auto 0px 0px 6px;
+    line-height: 30px;
 }
 
 .middle-sec{

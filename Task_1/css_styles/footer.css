@@ -1,0 +1,73 @@
+footer{
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 100px;
+    padding-bottom: 70px;
+    padding-top: 50px;
+    background-color: rgb(241, 241, 241);
+
+} 
+.container-1 {
+    margin-left: 100px;
+    width: 500px;
+    position: relative;
+}
+.know-more ,
+.know-more a ,
+.timings {
+    color: rgba(92, 101, 116, 1);
+    font-size: 14px;
+    line-height: 22px;
+}
+.know-more{
+    margin-top: 15px;
+    margin-bottom: 35px;
+    width: 70%;
+}
+h5{
+    font-size: 12px;
+    font-weight: 700;
+    margin-bottom: 35px;
+}
+.timings{
+    display: flex;
+    align-items: center;
+}
+.timings p{
+    margin-right: 35px;
+}
+.container-2 h5,
+.container-3 h5,
+.container-4 h5 {
+    text-align: left;
+    margin-bottom: 18px;
+}
+.container-2 ol li,
+.container-3 ol li {
+    list-style-type: none;
+    color: rgba(92, 101, 116, 1);
+    font-size: 14px;
+    line-height: 42px;
+}
+.container-2 ol li a,
+.container-3 ol li a {
+    text-decoration: none;
+    color: rgba(92, 101, 116, 1);
+}
+.container-4 {
+    height: 220px;
+    width: 250px;
+}
+.container-4 div{
+    margin-top: 30px;
+    top: 12%;
+    left: 80%;
+}
+.container-4 div button{
+    width: 25px;
+    height: 25px;
+    border: none;
+}

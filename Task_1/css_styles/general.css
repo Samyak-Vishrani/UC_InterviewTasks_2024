@@ -5,6 +5,11 @@
     margin-right: 7px;
 }
 
+.menu-btn:hover {
+    transform: scale(1.14);
+    transition: 0.15s;
+}
+
 .nav-button{
     color: white;
     padding-top: 8px;
@@ -27,6 +32,11 @@
     background-color: rgb(234, 109, 39);
     border-color: #EA6D27;
     margin-left: 7px;
+}
+
+.book-btn:hover {
+    transform: scale(1.14);
+    transition: 0.15s;
 }
 
 .my-content-header{
@@ -52,9 +62,9 @@
 
 .my-content-header-center {
     font-family: David Libre;
-    font-size: 46px;
+    font-size: 56px;
     font-weight: 700;
-    line-height: 50px;
+    line-height: 60px;
     display: block;
     z-index: 100;
     margin-bottom: 32px;
@@ -75,7 +85,7 @@
     text-align: center;
     display: block;
     margin: 30px auto 110px;
-    width: 40%;
+    width: 28%;
 }
 
 .sub-heading {
